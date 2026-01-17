@@ -11,9 +11,8 @@ Collection of boilerplates on different stacks that I develop on to scaffold new
 
 This project was built using:
 
-- TypeScript
--
--
+- Bun
+- husky
 
 ## Usage
 
@@ -24,4 +23,3 @@ git clone https://github.com/guisaliba/boilers.git
 ```
 
 </samp>
-
